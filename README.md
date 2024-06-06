@@ -3,3 +3,5 @@
 hello :)
 
 https://code.visualstudio.com/docs/cpp/config-linux#_debug-helloworldcpp
+
+https://clang.llvm.org/docs/ClangFormatStyleOptions.html
