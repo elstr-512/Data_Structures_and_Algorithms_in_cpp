@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# misc
+source/chpt_1_ACppPrimer/vectorProd/*
+source/chpt_1_ACppPrimer/writeTypos/*

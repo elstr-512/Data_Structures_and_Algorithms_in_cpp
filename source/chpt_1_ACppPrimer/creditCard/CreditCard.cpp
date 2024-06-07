@@ -7,6 +7,7 @@ CreditCard::CreditCard(const string& no, const string& nm, int lim, double bal) 
     balance = bal;
     limit   = lim;
 }
+
 bool CreditCard::chargeIt(double price) {
     if (price + balance > double(limit))
         return false;
