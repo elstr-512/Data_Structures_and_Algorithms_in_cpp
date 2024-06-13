@@ -5,12 +5,12 @@
 using namespace std;
 
 class TEMPLATE {
-  public:
+public:
     TEMPLATE();
   
-  protected:
+protected:
 
-  private:
+private:
 };
 
 #endif
