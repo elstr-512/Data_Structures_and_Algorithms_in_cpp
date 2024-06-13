@@ -38,7 +38,7 @@ class Scores {
         entries[i + 1] = entry;
     }
 
-    GameEntry remove(int i) throw(IndexOutOfBounds) {
+    GameEntry remove(int i) {
         if ((i < 0) || (i >= numEntries)) {
             throw IndexOutOfBounds("Invalid Index");
         }
